@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=F7E3E7&multiline=true&width=435&height=100&lines=Bienvenido+!!!;Mi+nombre+es%3A+;Jos%C3%A9+Campos+Chaves)](https://git.io/typing-svg)
 
-# Soy desarrollador de Software.
+# Soy Desarrollador de Software.
 
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 
@@ -13,16 +13,6 @@
 ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)
 </a>
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
-
-
-**JoseCamp1/JoseCamp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-
-
 
 - 🔭 I’m currently working on HTML
 - 🌱 I’m currently learning HTML
