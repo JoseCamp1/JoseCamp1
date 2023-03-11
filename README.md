@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on C++
-- 🌱 I’m currently learning MYSQL
+- 🔭 I’m currently working on HTML
+- 🌱 I’m currently learning HTML
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseCamp1&show_icons=true&theme=dark)
