@@ -17,6 +17,7 @@ Poseo conocimientos en :
 
 - 🔭 Recientemente e estado trabando con Javascript  
 - 🌱 Estoy aprendiendo c#
+- Mis redes-sociales:
   ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)
 </a>
 <a href="https://www.linkedin.com/in/josé-joaquín-campos-chávez-620024201/">
