@@ -11,14 +11,11 @@ Poseo conocimientos en :
 
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
-  
-  
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat) 
 
 - 🔭 Recientemente e estado trabando con Javascript  
 - 🌱 Estoy aprendiendo c#
-- Mis redes-sociales: <br>
-  
+- Mis redes-sociales:  
 <a href="https://www.linkedin.com/in/josé-joaquín-campos-chávez-620024201/">
   ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)
 </a>
