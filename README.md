@@ -17,10 +17,11 @@ Poseo conocimientos en :
 
 - 🔭 Recientemente e estado trabando con Javascript  
 - 🌱 Estoy aprendiendo c#
-- Mis redes-sociales:  
-<a href="https://www.linkedin.com/in/josé-joaquín-campos-chávez-620024201/">
+- 
+- Mis redes-sociales: <a href="https://www.linkedin.com/in/josé-joaquín-campos-chávez-620024201/">
   ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)
 </a>
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseCamp1&show_icons=true&theme=dark)
