@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&color=F7E3E7&multiline=true&width=435&height=100&lines=Bienvenido+!!!;Mi+nombre+es%3A+;Jos%C3%A9+Campos+Chaves)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=F7E3E7&multiline=true&width=435&height=100&lines=Bienvenido+!!!;Mi+nombre+es%3A+;Jos%C3%A9+Campos+Chaves)](https://git.io/typing-svg)
 
 # Soy Desarrollador de Software.
 Poseo conocimientos en :
