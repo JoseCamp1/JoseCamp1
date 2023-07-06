@@ -15,9 +15,9 @@ Soy un apasionado estudiante de programación actualmente cursando mis estudios 
 
 A lo largo de mis estudios en el INA, he tenido la oportunidad de trabajar en diversos proyectos como parte de los diferentes módulos que he llevado. Algunos de los proyectos destacados en mi perfil incluyen:
 
-- [Proyecto 1](enlace-al-proyecto-1): Breve descripción del proyecto.
-- [Proyecto 2](enlace-al-proyecto-2): Breve descripción del proyecto.
-- [Proyecto 3](enlace-al-proyecto-3): Breve descripción del proyecto.
+- [Proyecto Final Modulo: Implementacion de Aplicaciones Informaticas con Programacion Estructurada](https://github.com/JoseCamp1/C-_Black_Jack.git): Breve descripción del proyecto.
+- [Proyecto Final Modulo: Gestion de Bases de Datos](https://github.com/JoseCamp1/SQL_BasedeDatos_Universidad.git): Breve descripción del proyecto.
+- [Proyecto Final Modulo: Creacion de Paginas Web ](https://github.com/JoseCamp1/Morfos_Salon_Web_Site.git): Breve descripción del proyecto.
 
 ¡Estoy emocionado por seguir aprendiendo y desarrollando nuevas habilidades en el fascinante mundo del desarrollo de software!
 
