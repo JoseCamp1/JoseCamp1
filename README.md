@@ -34,6 +34,7 @@ A lo largo de mis estudios en el INA, he tenido la oportunidad de trabajar en di
 
 ¡Estoy emocionado por seguir aprendiendo y desarrollando nuevas habilidades en el fascinante mundo del desarrollo de software!
 
-¡Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/josé-joaquín-campos-chávez-620024201/) para seguir conectados y estar al tanto de mis futuros proyectos y logros!
+¡Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/josé-joaquín-campos-chávez-620024201/) o al [Email](mailto:joacachavez20@gmail.com)
+ para seguir conectados y estar al tanto de mis futuros proyectos y logros!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseCamp1&show_icons=true&theme=dark)
