@@ -13,18 +13,24 @@ Soy un apasionado estudiante de programación actualmente cursando mis estudios 
 
 #### Proyectos realizados:
 
-A lo largo de mis estudios en el INA, he tenido la oportunidad de trabajar en diversos proyectos como parte de los diferentes módulos que he llevado. Algunos de los proyectos destacados en mi perfil incluyen:
+A lo largo de mis estudios en el INA, he tenido la oportunidad de trabajar en diversos proyectos como parte de los diferentes módulos que he llevado. Aquí tienes algunos de los proyectos destacados en mi perfil:
 
-- Logica Computacional : Desarrollo del juego Bingo y Rompecabezas Numérico.
-[Proyecto1](https://github.com/JoseCamp1/Pseint_BINGO.git) / [Proyecto2](https://github.com/JoseCamp1/Pseint_Rompe_Cabezas_Numerico.git)
-- Aplicaciones Informaticas con Programacion Estructurada : Desarrollo del juego Black Jack y Domino.
-[Proyecto1](https://github.com/JoseCamp1/C-_Black_Jack.git) / [Proyecto2](https://github.com/JoseCamp1/C-_Domino.git)
-- Gestion de Bases de Datos : Desarrollo de la base de datos de una Universidad.
-[Proyecto](https://github.com/JoseCamp1/SQL_BasedeDatos_Universidad.git)
-- Creacion de Paginas Web : Desarrollo de pagina web funcional para un emprendimiento de la localidad.
-[Proyecto](https://github.com/JoseCamp1/Morfos_Salon_Web_Site.git)
-- Programación Orientada a Objetos : Desarrollo de Aplicacion para Clinica Privada.
-[Proyecto](https://github.com/JoseCamp1/PROYECTO_POO_CLINICA_PRIVADA.git)
+- **Logica Computacional:**
+  - [Bingo](https://github.com/JoseCamp1/Pseint_BINGO.git): Un juego de Bingo desarrollado en Pseint.
+  - [Rompecabezas Numérico](https://github.com/JoseCamp1/Pseint_Rompe_Cabezas_Numerico.git): Un rompecabezas numérico desarrollado en Pseint.
+
+- **Aplicaciones Informáticas con Programación Estructurada:**
+  - [Black Jack](https://github.com/JoseCamp1/C-_Black_Jack.git): Implementación del juego Black Jack en C++.
+  - [Domino](https://github.com/JoseCamp1/C-_Domino.git): Juego de dominó implementado en C++.
+
+- **Gestión de Bases de Datos:**
+  - [Base de Datos de una Universidad](https://github.com/JoseCamp1/SQL_BasedeDatos_Universidad.git): Desarrollo de una base de datos para una universidad utilizando SQL.
+
+- **Creación de Páginas Web:**
+  - [Sitio Web para Emprendimiento Local](https://github.com/JoseCamp1/Morfos_Salon_Web_Site.git): Desarrollo de un sitio web funcional para un emprendimiento local utilizando HTML, CSS y JavaScript.
+
+- **Programación Orientada a Objetos:**
+  - [Aplicación para Clínica Privada](https://github.com/JoseCamp1/PROYECTO_POO_CLINICA_PRIVADA.git): Desarrollo de una aplicación para la gestión de una clínica privada utilizando programación orientada a objetos.
 
 ¡Estoy emocionado por seguir aprendiendo y desarrollando nuevas habilidades en el fascinante mundo del desarrollo de software!
 
