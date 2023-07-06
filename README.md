@@ -1,27 +1,26 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=F7E3E7&multiline=true&width=435&height=100&lines=Bienvenido+!!!;Mi+nombre+es%3A+;Jos%C3%A9+Campos+Chaves)](https://git.io/typing-svg)
+### ¡Bienvenido a mi perfil de GitHub! 👋
 
-# Soy Desarrollador de Software.
-Poseo conocimientos en :
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=F7E3E7&multiline=true&width=435&height=100&lines=Bienvenido+!!!;Mi+nombre+es%3A+Jos%C3%A9+Campos+Chaves)
 
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
+Soy un apasionado estudiante de programación actualmente cursando mis estudios en el Instituto Nacional de Aprendizaje (INA) en Costa Rica. Me enfoco en aprender y desarrollar mis habilidades en diversos lenguajes y tecnologías para convertirme en un excelente desarrollador de software.
 
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat) 
+#### Habilidades clave:
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+- Desarrollo en C++ 🚀
+- Administración de bases de datos MySQL 🛢️
+- Desarrollo web con HTML5, CSS3 y JavaScript 🌐
+- Actualmente aprendiendo C# ⚡
 
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+#### Proyectos realizados:
 
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+A lo largo de mis estudios en el INA, he tenido la oportunidad de trabajar en diversos proyectos como parte de los diferentes módulos que he llevado. Algunos de los proyectos destacados en mi perfil incluyen:
 
+- [Proyecto 1](enlace-al-proyecto-1): Breve descripción del proyecto.
+- [Proyecto 2](enlace-al-proyecto-2): Breve descripción del proyecto.
+- [Proyecto 3](enlace-al-proyecto-3): Breve descripción del proyecto.
 
+¡Estoy emocionado por seguir aprendiendo y desarrollando nuevas habilidades en el fascinante mundo del desarrollo de software!
 
-- 🔭 Recientemente e estado trabajando con Javascript  
-- 🌱 Estoy aprendiendo c#
-- 
-- Mis redes-sociales: <a href="https://www.linkedin.com/in/josé-joaquín-campos-chávez-620024201/">
-  ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)
-</a>
-
-
+¡Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/josé-joaquín-campos-chávez-620024201/) para seguir conectados y estar al tanto de mis futuros proyectos y logros!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseCamp1&show_icons=true&theme=dark)
