@@ -13,7 +13,9 @@ Soy un apasionado estudiante de programación actualmente cursando mis estudios 
 
 #### Proyectos realizados:
 
-A lo largo de mis estudios en el INA, he tenido la oportunidad de trabajar en diversos proyectos como parte de los diferentes módulos que he llevado. Aquí tienes algunos de los proyectos destacados en mi perfil:
+A lo largo de mis estudios en el INA, he tenido la oportunidad de trabajar en diversos proyectos como parte de los diferentes módulos que he llevado.
+
+Aquí tienes algunos de los proyectos destacados en mi perfil:
 
 - **Logica Computacional:**
   - [Bingo](https://github.com/JoseCamp1/Pseint_BINGO.git): Un juego de Bingo desarrollado en Pseint.
@@ -30,7 +32,7 @@ A lo largo de mis estudios en el INA, he tenido la oportunidad de trabajar en di
   - [Sitio Web para Emprendimiento Local](https://github.com/JoseCamp1/Morfos_Salon_Web_Site.git): Desarrollo de un sitio web funcional para un emprendimiento local utilizando HTML, CSS y JavaScript.
 
 - **Programación Orientada a Objetos:**
-  - [Aplicación para Clínica Privada](https://github.com/JoseCamp1/PROYECTO_POO_CLINICA_PRIVADA.git): Desarrollo de una aplicación para la gestión de una clínica privada utilizando programación orientada a objetos.
+  - [Aplicación para Clínica Privada](https://github.com/JoseCamp1/PROYECTO_POO_CLINICA_PRIVADA.git): Desarrollo de una aplicación para la gestión de una clínica privada utilizando programación orientada a objetos utilizando SQL, C# y Bootstrap.
 
 ¡Estoy emocionado por seguir aprendiendo y desarrollando nuevas habilidades en el fascinante mundo del desarrollo de software!
 
