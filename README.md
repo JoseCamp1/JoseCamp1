@@ -16,9 +16,9 @@ Soy un apasionado estudiante de programación actualmente cursando mis estudios 
 A lo largo de mis estudios en el INA, he tenido la oportunidad de trabajar en diversos proyectos como parte de los diferentes módulos que he llevado. Algunos de los proyectos destacados en mi perfil incluyen:
 
 - Logica Computacional : Desarrollo del juego Bingo y Rompecabezas Numérico.
-[Proyecto 1](https://github.com/JoseCamp1/Pseint_BINGO.git) / [Proyecto 2](https://github.com/JoseCamp1/Pseint_Rompe_Cabezas_Numerico.git)
+[Proyecto1](https://github.com/JoseCamp1/Pseint_BINGO.git) / [Proyecto2](https://github.com/JoseCamp1/Pseint_Rompe_Cabezas_Numerico.git)
 - Aplicaciones Informaticas con Programacion Estructurada : Desarrollo del juego Black Jack y Domino.
-[Proyecto 1](https://github.com/JoseCamp1/C-_Black_Jack.git) / [Proyecto 2](https://github.com/JoseCamp1/C-_Domino.git)
+[Proyecto1](https://github.com/JoseCamp1/C-_Black_Jack.git) / [Proyecto2](https://github.com/JoseCamp1/C-_Domino.git)
 - Gestion de Bases de Datos : Desarrollo de la base de datos de una Universidad.
 [Proyecto](https://github.com/JoseCamp1/SQL_BasedeDatos_Universidad.git)
 - Creacion de Paginas Web : Desarrollo de pagina web funcional para un emprendimiento de la localidad.
