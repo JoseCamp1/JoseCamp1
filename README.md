@@ -7,7 +7,7 @@ Soy un apasionado estudiante de programación actualmente cursando mis estudios 
 #### Habilidades clave:
 
 - Desarrollo en C++ 🚀
-- Administración de bases de datos MySQL 🛢️
+- Administración de bases de datos SQL Server 🛢️
 - Desarrollo web con HTML5, CSS3 y JavaScript 🌐
 - Actualmente aprendiendo C# ⚡
 
