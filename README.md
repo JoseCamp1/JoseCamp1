@@ -37,7 +37,7 @@ Aquí tienes algunos de los proyectos destacados en mi perfil:
   - [Aplicación para Clínica Privada](https://github.com/JoseCamp1/PROYECTO_POO_CLINICA_PRIVADA.git): Desarrollo de una aplicación para la gestión de una clínica privada utilizando programación orientada a objetos utilizando TSQL, C# , ASP.NET y Bootstrap.
 
 - **Programación de Aplicaciones Empresariales en Ambiente Web 👔:**
-  - [Sistema de Facturación](https://github.com/JoseCamp1/PROYECTO_PAE_FACTURACION.git): Desarrollo de una aplicación que permita gestionar las operaciones de facturación de una panadería de manera efectiva y eficiente,utilizando programación orientada a objetos utilizando TSQL y Java.
+  - [Sistema de Facturación](https://github.com/JoseCamp1/PROYECTO_PAE_FACTURACION.git): Desarrollo de una aplicación que permita gestionar las operaciones de facturación de manera efectiva y eficiente,utilizando programación orientada a objetos, utilizando TSQL y Java.
 
 ¡Estoy emocionado por seguir aprendiendo y desarrollando nuevas habilidades en el fascinante mundo del desarrollo de software!
 
