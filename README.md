@@ -45,9 +45,4 @@ Aquí tienes algunos de los proyectos destacados en mi perfil:
  para seguir conectados y estar al tanto de mis futuros proyectos y logros!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseCamp1&show_icons=true&theme=dark)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JoseCamp1&theme=dark">
-    <img alt="Shows JoseCamp1's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=JoseCamp1&theme=default">
-  </picture>
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCamp1&langs_count=8)
