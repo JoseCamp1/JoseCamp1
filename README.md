@@ -45,3 +45,4 @@ Aquí tienes algunos de los proyectos destacados en mi perfil:
  para seguir conectados y estar al tanto de mis futuros proyectos y logros!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseCamp1&show_icons=true&theme=dark).
+![Texto alternativo](https://camo.githubusercontent.com)
