@@ -44,5 +44,5 @@ Aquí tienes algunos de los proyectos destacados en mi perfil:
 ¡Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/josé-joaquín-campos-chávez-620024201/) o al [Email](mailto:joacachavez20@gmail.com)
  para seguir conectados y estar al tanto de mis futuros proyectos y logros!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseCamp1&show_icons=true&theme=dark).
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCamp1&layout=compact).
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseCamp1&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCamp1&layout=compact)
