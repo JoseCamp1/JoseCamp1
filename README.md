@@ -11,7 +11,8 @@ Soy un apasionado estudiante de programación actualmente cursando mis estudios 
 - Administración de bases de datos SQL Server 🛢️
 - Desarrollo web con HTML5, CSS3 y JavaScript 🌐
 - Desarrollo en C# ⚙️
-- Actualmente aprendiendo 🔍 Java  y React ⚛️
+- Desarrollo en Java ⚙️
+- Actualmente aprendiendo React ⚛️
 
 #### Proyectos realizados:
 
