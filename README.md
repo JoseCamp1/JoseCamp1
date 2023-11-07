@@ -25,7 +25,7 @@ Aquí tienes algunos de los proyectos destacados en mi perfil:
   - [Bingo](https://github.com/JoseCamp1/Pseint_BINGO.git): Un juego de Bingo desarrollado en Pseint.
   - [Rompecabezas Numérico](https://github.com/JoseCamp1/Pseint_Rompe_Cabezas_Numerico.git): Un rompecabezas numérico desarrollado en Pseint.
 
-- **Aplicaciones Informáticas con Programación Estructurada 🎮:**
+- **Aplicaciones Informáticas con Programación Estructurada :**
   - [Black Jack](https://github.com/JoseCamp1/C-_Black_Jack.git): Implementación del juego Black Jack en ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=plastic)
   - [Domino](https://github.com/JoseCamp1/C-_Domino.git): Juego de dominó implementado en ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=plastic)
 
