@@ -21,7 +21,7 @@ A lo largo de mis estudios en el INA, he tenido la oportunidad de trabajar en di
 
 Aquí tienes algunos de los proyectos destacados en mi perfil:
 
-- **Logica Computacional 🧠:**
+- **Logica Computacional :**
   - [Bingo](https://github.com/JoseCamp1/Pseint_BINGO.git): Un juego de Bingo desarrollado en Pseint.
   - [Rompecabezas Numérico](https://github.com/JoseCamp1/Pseint_Rompe_Cabezas_Numerico.git): Un rompecabezas numérico desarrollado en Pseint.
 
@@ -29,15 +29,15 @@ Aquí tienes algunos de los proyectos destacados en mi perfil:
   - [Black Jack](https://github.com/JoseCamp1/C-_Black_Jack.git): Implementación del juego Black Jack en ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=plastic)
   - [Domino](https://github.com/JoseCamp1/C-_Domino.git): Juego de dominó implementado en ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=plastic)
 
-- **Gestión de Bases de Datos 🗄️:**
+- **Gestión de Bases de Datos :**
   - [Base de Datos de una Universidad](https://github.com/JoseCamp1/SQL_BasedeDatos_Universidad.git): Desarrollo de una base de datos para una universidad utilizando ![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=plastic)
 
-- **Creación de Páginas Web 🌐:**
+- **Creación de Páginas Web :**
   - [Sitio Web para Emprendimiento Local](https://github.com/JoseCamp1/Morfos_Salon_Web_Site.git): Desarrollo de un sitio web para un emprendimiento local utilizando ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=plastic) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic) ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=plastic)
 
-- **Programación Orientada a Objetos 🎯:**
+- **Programación Orientada a Objetos :**
   - [Aplicación para Clínica Privada](https://github.com/JoseCamp1/PROYECTO_POO_CLINICA_PRIVADA.git): Desarrollo de una aplicación para la gestión de una clínica privada utilizando programación orientada a objetos utilizando ![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=plastic) ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-512BD4?logo=csharp&logoColor=fff&style=plastic) ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=plastic) ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=plastic)
-- **Programación de Aplicaciones Empresariales en Ambiente Web 👔:**
+- **Programación de Aplicaciones Empresariales en Ambiente Web :**
   - [Sistema de Facturación](https://github.com/JoseCamp1/PROYECTO_PAE_FACTURACION.git): Desarrollo de una aplicación que permita gestionar las operaciones de facturación de manera efectiva y eficiente,utilizando programación orientada a objetos, utilizando ![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=plastic) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&style=plastic) ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=plastic)
 
 ¡Estoy emocionado por seguir aprendiendo y desarrollando nuevas habilidades en el fascinante mundo del desarrollo de software!
