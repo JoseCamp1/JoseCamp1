@@ -43,9 +43,17 @@ Soy estudiante de programación en el Instituto Nacional de Aprendizaje (INA) en
 
 Contacta conmigo: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic)](https://www.linkedin.com/in/josé-joaquín-campos-chávez-620024201/) [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=plastic)](mailto:joacachavez20@gmail.com) <img src="https://komarev.com/ghpvc/?username=JoseCamp1&style=plastic&color=blue" alt=""/>
 
-### :fire: Mis Stats :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCamp1&theme=dark&background=000000&hide=less&layout=compact)
+### Mis Stats :
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCamp1&theme=dark&background=000000&hide=less&layout=compact" alt="Top Langs">
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseCamp1&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseCamp1&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JoseCamp1&theme=dark&locale=es&mode=weekly" alt="GitHub Streak" /></a>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=JoseCamp1&theme=dark&locale=es&mode=weekly" alt="GitHub Streak">
+  </a>
+</p>
