@@ -1,6 +1,6 @@
 # ¡Bienvenido a mi perfil de GitHub! 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=100&color=F7E3E7&multiline=true&width=435&height=100&lines=Bienvenido+!!!;Mi+nombre+es%3A;Jos%C3%A9+Campos+Chaves)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=100&color=F7E3E7&multiline=true&width=435&height=100&lines=!!!+Bienvenido+!!!;Mi+nombre+es%3A;Jos%C3%A9+Campos+Chaves)
 
 Soy estudiante de programación en el Instituto Nacional de Aprendizaje (INA) en Costa Rica, enfocado en aprender y desarrollar habilidades en diversos lenguajes y tecnologías para convertirme en un excelente Desarrollador de Software.
 
