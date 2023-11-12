@@ -29,13 +29,13 @@ Soy estudiante de programación en el Instituto Nacional de Aprendizaje (INA) en
   - [Domino](https://github.com/JoseCamp1/C-_Domino.git): Juego de dominó en C++
 
 - **Gestión de Bases de Datos :**
-  - [Base de Datos de una Universidad](https://github.com/JoseCamp1/SQL_BasedeDatos_Universidad.git): Desarrollo de una base de datos para una universidad utilizando SQL Server.
+  - [Base de Datos Universidad](https://github.com/JoseCamp1/SQL_BasedeDatos_Universidad.git): Desarrollo de una base de datos para una universidad utilizando SQL Server.
 
 - **Creación de Páginas Web :**
-  - [Sitio Web para Emprendimiento Local](https://github.com/JoseCamp1/Morfos_Salon_Web_Site.git): Sitio Web para un emprendimiento local utilizando HTML, CSS y JavaScript. 
+  - [Sitio Web Emprendimiento Local](https://github.com/JoseCamp1/Morfos_Salon_Web_Site.git): Sitio Web para un emprendimiento local utilizando HTML, CSS y JavaScript. 
 
 - **Programación Orientada a Objetos :**
-  - [Aplicación para Clínica Privada](https://github.com/JoseCamp1/PROYECTO_POO_CLINICA_PRIVADA.git): Aplicación Local y Web de gestión para una Clínica Privada utilizando C#, SQL Server y Bootstrap. 
+  - [Gestión de Clínica Privada](https://github.com/JoseCamp1/PROYECTO_POO_CLINICA_PRIVADA.git): Aplicación Local y Web de gestión para una Clínica Privada utilizando C#, SQL Server y Bootstrap. 
 - **Programación de Aplicaciones Empresariales en Ambiente Web :**
   - [Sistema de Facturación](https://github.com/JoseCamp1/PROYECTO_PAE_FACTURACION.git): Aplicación Local y Web de facturación para una Panadería utilizando Java, SQL Server y Bootstrap.
 
