@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=1000&height=100&lines=%C2%A1Hola+Bienvenido+a+mi+perfil+de+GitHub!+%F0%9F%91%8B+;Mi+nombres+es%3A+Jos%C3%A9+Campos+Chaves;Soy+Desarrollador+de+Software" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=1000&height=120&lines=%C2%A1Hola+Bienvenido+a+mi+perfil+de+GitHub!+%F0%9F%91%8B+;Mi+nombres+es%3A+Jos%C3%A9+Campos+Chaves;Soy+Desarrollador+de+Software" alt="Typing SVG" /></a>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
