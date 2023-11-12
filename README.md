@@ -1,6 +1,8 @@
-# ¡Hola Bienvenido a mi perfil de GitHub! 👋
-![Soy Desarrollador de Software ](https://i.postimg.cc/4xtmDsQ7/software-developer.png) 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=100&color=F7E3E7&multiline=true&width=435&height=100&lines=!!!+Bienvenido+!!!;Mi+nombre+es%3A;Jos%C3%A9+Campos+Chaves)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=1000&height=100&lines=%C2%A1Hola+Bienvenido+a+mi+perfil+de+GitHub!+%F0%9F%91%8B+;Mi+nombres+es%3A+Jos%C3%A9+Campos+Chaves;Soy+Desarrollador+de+Software" alt="Typing SVG" /></a>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 Soy estudiante de programación en el Instituto Nacional de Aprendizaje (INA) en Costa Rica, enfocado en aprender y desarrollar habilidades en diversos lenguajes y tecnologías para convertirme en un excelente Desarrollador de Software.
 
@@ -41,5 +43,9 @@ Soy estudiante de programación en el Instituto Nacional de Aprendizaje (INA) en
 
 Contacta conmigo: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic)](https://www.linkedin.com/in/josé-joaquín-campos-chávez-620024201/) [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=plastic)](mailto:joacachavez20@gmail.com) <img src="https://komarev.com/ghpvc/?username=JoseCamp1&style=plastic&color=blue" alt=""/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCamp1&layout=compact)
+### :fire: Mis Stats :
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCamp1&theme=dark&background=000000&hide=less&layout=compact)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseCamp1&show_icons=true&theme=dark)
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JoseCamp1&theme=dark&locale=es&mode=weekly" alt="GitHub Streak" /></a>
