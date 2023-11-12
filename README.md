@@ -1,5 +1,5 @@
-# ¡Bienvenido a mi perfil de GitHub! 👋
-
+# ¡Hola Bienvenido a mi perfil de GitHub! 👋
+![Soy Desarrollador de Software ](https://i.postimg.cc/4xtmDsQ7/software-developer.png) 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=100&color=F7E3E7&multiline=true&width=435&height=100&lines=!!!+Bienvenido+!!!;Mi+nombre+es%3A;Jos%C3%A9+Campos+Chaves)
 
 Soy estudiante de programación en el Instituto Nacional de Aprendizaje (INA) en Costa Rica, enfocado en aprender y desarrollar habilidades en diversos lenguajes y tecnologías para convertirme en un excelente Desarrollador de Software.
@@ -39,7 +39,7 @@ Soy estudiante de programación en el Instituto Nacional de Aprendizaje (INA) en
 - **Programación de Aplicaciones Empresariales en Ambiente Web :**
   - [Sistema de Facturación](https://github.com/JoseCamp1/PROYECTO_PAE_FACTURACION.git): Aplicación Local y Web de facturación para una Panadería utilizando Java, SQL Server y Bootstrap.
 
-Contacta conmigo: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic)](https://www.linkedin.com/in/josé-joaquín-campos-chávez-620024201/) [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=plastic)](mailto:joacachavez20@gmail.com)
+Contacta conmigo: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic)](https://www.linkedin.com/in/josé-joaquín-campos-chávez-620024201/) [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=plastic)](mailto:joacachavez20@gmail.com) <img src="https://komarev.com/ghpvc/?username=JoseCamp1&style=plastic&color=blue" alt=""/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCamp1&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseCamp1&show_icons=true&theme=dark)
