@@ -51,9 +51,3 @@ Contacta conmigo: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoseCamp1&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=JoseCamp1&theme=dark&locale=es&mode=weekly" alt="GitHub Streak">
-  </a>
-</p>
