@@ -18,7 +18,7 @@ Soy estudiante de programación en el Instituto Nacional de Aprendizaje (INA) en
 
 - **Desarrollo Web:** ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=plastic) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic) ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=plastic)
 
-- **Aprendiendo Actualmente:** ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic), ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=plastic)
+- **Aprendiendo Actualmente:** ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic)
 
 #### Proyectos destacados durante mis estudios:
 
