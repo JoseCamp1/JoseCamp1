@@ -41,7 +41,7 @@ Soy estudiante de programación en el Instituto Nacional de Aprendizaje (INA) en
 - **Programación de Aplicaciones Empresariales en Ambiente Web :**
   - [Sistema de Facturación](https://github.com/JoseCamp1/PROYECTO_PAE_FACTURACION.git): Aplicación Local y Web de facturación para una Panadería utilizando Java, SQL Server y Bootstrap.
 
-Contacta conmigo: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic)](https://www.linkedin.com/in/josé-joaquín-campos-chávez-620024201/) [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=plastic)](mailto:joacachavez20@gmail.com) <img src="https://komarev.com/ghpvc/?username=JoseCamp1&style=plastic&color=blue" alt=""/>
+Contacta conmigo: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic)](in/jose-campos-chaves/) [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=plastic)](mailto:joacachavez20@gmail.com) <img src="https://komarev.com/ghpvc/?username=JoseCamp1&style=plastic&color=blue" alt=""/>
 
 ### Mis Stats :
 <p align="center">
